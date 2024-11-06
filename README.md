@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!My name is Sevidu K. Punsara. I am an undergraduate software engineering student at the University of Kelaniya.</h2>
+<h2 align="left">Hi 👋!My name is Sevindu K. Punsara. I am an undergraduate software engineering student at the University of Kelaniya.</h2>
 
 ###
 
