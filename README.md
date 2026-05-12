@@ -1,5 +1,6 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Sevindu K. Punsara</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C896&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Sevindu+K.+Punsara;Software+Engineering+Undergraduate;Backend+Developer;Building+Practical+and+Scalable+Systems" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Undergraduate Software Engineering Student <br/>
